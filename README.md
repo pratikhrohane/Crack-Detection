@@ -80,8 +80,11 @@ RuntimeError: module compiled against API version 0xf but this version of numpy 
 `pip3 install numpy --upgrade`
 
 
+PIL install
+`sudo apt-get install python3-pil python3-pil.imagetk`
+
 # Install Jupyter Notebook
 `pip3 install jupyter`
 
-PIL install
-`sudo apt-get install python3-pil python3-pil.imagetk`
+Run Jupyter Notebook
+`jupyter notebook`
